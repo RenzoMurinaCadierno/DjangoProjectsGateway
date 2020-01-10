@@ -33,19 +33,65 @@ Descriptions, functionality and image showcasing
 ## RNMC Videos
 
 **Description and functionality**
+
 A web app where you can create your own video galleries and fill them up with YouTube videos. Any user can see them, so you are free to share them with the world or keep them as a personal video library anytime you wish to rewatch them.
 
 Both function and class-based-views are used, the former to handle generic operations, and the latter to deal with the database through models.py. AJAX is used to enhance UX as it retrieves YouTuve videos in real time while typing on the search bar. Please, do not I am using a free YouTube API for developers, so the search quota is small, but you might look for ten or fifteen videos with no problems. Six will display at a time on each search because of this same reason.
 
 **Image showcase**
 
-![alt text](http://url/to/img.png)
+A very basic home page (part 1), I aim for functionality.
 
-Watch out when you clone this repository, since it is already configured for Heroku deployment and will not work at localhost. Read its own README for more instructions.
+![Basic landing page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos01.PNG)
 
-The idea behind this project is to let users comment on blog posts only I create, what would basically be the foundation of one-way blogging pages like Wordpress.
 
-As an admin, the site gives me the chance to create blog posts delete and edit them, as well as revising user comments before they are published to emulate a 'moderator' role. This site's whole functionality is handled by Class-based views using Django framework. Since my aim here is to work at wiring the back-end, the front-end is a bit too basic. It was made with Bootstrap 3 and some custom CSS.
+Home page (part 2), shows most popular and recent galleries.
 
+![Most popular galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos02.PNG)
+
+
+Django's signup form, styled.
+
+![Signup](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos03.PNG)
+
+
+Once a user is created, it auto-logins and redirects to galleries to create one.
+
+![Galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos04.PNG)
+
+
+Naming and creating a video gallery.
+
+![Creating gallery](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos05.PNG)
+
+
+User's video galleries page, showing the created galleries.
+
+![Galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos05.PNG)
+
+
+Adding a video to a gallery. You can paste the link or search for the video. AJAX will do the rest.
+
+![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos06.PNG)
+
+
+AJAX rendered response.
+
+![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos07.PNG)
+
+
+Gallery with some added videos.
+
+![Gallery with videos](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos08.PNG)
+
+
+User video galleries page, now containing the created gallery.
+
+![Gallery page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos09.PNG)
+
+
+Home page (part 3), now showing the created gallery as one of the recently created ones.
+
+![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos10.PNG)
 
 ### Thank you for reading and for taking your time to check this project out!
