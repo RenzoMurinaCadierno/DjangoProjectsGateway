@@ -67,32 +67,32 @@ __***Image showcase***__
 
 - **User's video galleries page, showing the created galleries.**
 
-![Galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos05.PNG)
+![Galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos06.PNG)
 
 
 - **Adding a video to a gallery. You can paste the link or search for the video. AJAX will do the rest.**
 
-![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos06.PNG)
+![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos07.PNG)
 
 
 - **AJAX rendered response.**
 
-![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos07.PNG)
+![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos08.PNG)
 
 
 - **Gallery with some added videos.**
 
-![Gallery with videos](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos08.PNG)
+![Gallery with videos](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos09.PNG)
 
 
 - **User video galleries page, now containing the created gallery.**
 
-![Gallery page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos09.PNG)
+![Gallery page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos10.PNG)
 
 
 - **Home page (part 3), now showing the created gallery as one of the recently created ones.**
 
-![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos10.PNG)
+![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos11.PNG)
 
 
 ## RNMC Hunt
