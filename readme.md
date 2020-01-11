@@ -206,5 +206,7 @@ __***Image showcase***__
 
 ![Creating post](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcblog05.PNG)
 
+![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos10.PNG)
+
 
 ### Thank you for reading and for taking your time to check these projects out!
