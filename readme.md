@@ -40,57 +40,57 @@ Both function and class-based-views are used, the former to handle generic opera
 
 __***Image showcase***__
 
--**A very basic home page (part 1), I aim for functionality.**
+- **A very basic home page (part 1), I aim for functionality.**
 
 ![Basic landing page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos01.PNG)
 
 
--**Home page (part 2), shows most popular and recent galleries.**
+- **Home page (part 2), shows most popular and recent galleries.**
 
 ![Most popular galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos02.PNG)
 
 
--**Django's signup form, styled.**
+- **Django's signup form, styled.**
 
 ![Signup](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos03.PNG)
 
 
--**Once a user is created, it auto-logins and redirects to galleries to create one.**
+- **Once a user is created, it auto-logins and redirects to galleries to create one.**
 
 ![Galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos04.PNG)
 
 
--**Naming and creating a video gallery.**
+- **Naming and creating a video gallery.**
 
 ![Creating gallery](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos05.PNG)
 
 
--**User's video galleries page, showing the created galleries.**
+- **User's video galleries page, showing the created galleries.**
 
 ![Galleries](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos05.PNG)
 
 
--**Adding a video to a gallery. You can paste the link or search for the video. AJAX will do the rest.**
+- **Adding a video to a gallery. You can paste the link or search for the video. AJAX will do the rest.**
 
 ![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos06.PNG)
 
 
--**AJAX rendered response.**
+- **AJAX rendered response.**
 
 ![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos07.PNG)
 
 
--**Gallery with some added videos.**
+- **Gallery with some added videos.**
 
 ![Gallery with videos](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos08.PNG)
 
 
--**User video galleries page, now containing the created gallery.**
+- **User video galleries page, now containing the created gallery.**
 
 ![Gallery page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos09.PNG)
 
 
--**Home page (part 3), now showing the created gallery as one of the recently created ones.**
+- **Home page (part 3), now showing the created gallery as one of the recently created ones.**
 
 ![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos10.PNG)
 
@@ -107,17 +107,17 @@ Function based views are used throughout the whole project, so forms are typed m
 
 __***Image showcase***__
 
--**Home page (part 1), when it is empty. That is, when no projects are uploaded.**
+- **Home page (part 1), when it is empty. That is, when no projects are uploaded.**
 
 ![Home page (empty)](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmchunt01.PNG)
 
 
--**Posting a product/service/idea after logging in.**
+- **Posting a product/service/idea after logging in.**
 
 ![Posting an item](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmchunt02.PNG)
 
 
--**After posting, this is the item's individual site users can get into to read and upvote.**
+- **After posting, this is the item's individual site users can get into to read and upvote.**
 
 ![Item's site](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmchunt03.PNG)
 
@@ -137,37 +137,37 @@ A model combining function-based and class-based views with mixins and decorator
 
 __***Image showcase***__
 
--**Home page, a simple landing page that invites you to read the instructions.**
+- **Home page, a simple landing page that invites you to read the instructions.**
 
 ![Home page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcsocial01.PNG)
 
 
--**Once logged in, you can create a group yourself by giving it a name and a description.**
+- **Once logged in, you can create a group yourself by giving it a name and a description.**
 
 ![Group creation](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcsocial02.PNG)
 
 
--**You will be redirected to the group's page. Member count is set to one as you are the creator by default, and you are given the option to leave. Posts will appear below.**
+- **You will be redirected to the group's page. Member count is set to one as you are the creator by default, and you are given the option to leave. Posts will appear below.**
 
 ![Group page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcsocial03.PNG)
 
 
--**Your created group will appear on the list of available groups to join, by clicking on Group's navlink above.**
+- **Your created group will appear on the list of available groups to join, by clicking on Group's navlink above.**
 
 ![Available group's list](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcsocial04.PNG)
 
 
--**Entering a group gives you the chance to post a commentary.**
+- **Entering a group gives you the chance to post a commentary.**
 
 ![Commenting on a group](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcsocial05.PNG)
 
 
--**And it will appear in the group's page, from most recent to oldest. You are given the chance to delete the comment.**
+- **And it will appear in the group's page, from most recent to oldest. You are given the chance to delete the comment.**
 
 ![Comment list](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcsocial06.PNG)
 
 
--**By cicking on your username in the navlink above, you will be directed to your comments history.**
+- **By cicking on your username in the navlink above, you will be directed to your comments history.**
 
 ![User's comment history](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcsocial07.PNG)
 
@@ -182,31 +182,29 @@ A much basic version of the functionality applied in RNMC Social is used here, s
 
 __***Image showcase***__
 
--**Home page with one post in it.**
+- **Home page with one post in it.**
 
 ![Home page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcblog01.PNG)
 
 
--**Post's page with its body and comments.**
+- **Post's page with its body and comments.**
 
 ![Post page](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcblog02.PNG)
 
 
--**Adding a commentary.**
+- **Adding a commentary.**
 
 ![Adding commentary](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcblog03.PNG)
 
 
--**Using medium text editor to style the commentary (by highlighting it).**
+- **Using medium text editor to style the commentary (by highlighting it).**
 
 ![Styling commentary](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcblog04.PNG)
 
 
--**And of course, as an admin, the page to create a new post.**
+- **And of course, as an admin, the page to create a new post.**
 
 ![Creating post](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcblog05.PNG)
-
-![Adding video](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcvideos10.PNG)
 
 
 ### Thank you for reading and for taking your time to check these projects out!
