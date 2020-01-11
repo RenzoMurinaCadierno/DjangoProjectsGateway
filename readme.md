@@ -11,19 +11,19 @@ The projects are ordered from newest to oldest. Please, **do keep in mind** that
 
 Links
 ----------------------------------------
-- **RNMC Videos**
+- [**RNMC Videos**](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/readme.md#rnmc-videos)
     - URL: https://rnmcvideos.herokuapp.com/ (working)
     - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCVideos
 
-- **RNMC Hunt**
+- [**RNMC Hunt**](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/readme.md#rnmc-hunt)
     - URL: https://rnmchunt.herokuapp.com/ (working, but broken media due to Heroku's free dynos)
     - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCHunt
 
-- **RNMC Social**
+- [**RNMC Social**](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/readme.md#rnmc-social)
     - URL: https://rnmcsocial.herokuapp.com/ (working)
     - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCSocial
 
-- **RNMC Blog**
+- [**RNMC Blog**](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/readme.md#rnmc-blog)
     - URL: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog (working)
     - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog
 
@@ -31,6 +31,9 @@ Descriptions, functionality and image showcasing
 ----------------------------------------
 
 ## RNMC Videos
+
+- URL: https://rnmcvideos.herokuapp.com/ (working)
+- Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCVideos
 
 __***Description and functionality***__
 
@@ -97,6 +100,9 @@ __***Image showcase***__
 
 ## RNMC Hunt
 
+- URL: https://rnmchunt.herokuapp.com/ (working, but broken media due to Heroku's free dynos)
+- Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCHunt
+
 __***Description and functionality***__
 
 A site designed as a 'kickstarter' page, containing only the foundations (root functionality) of it. Users can sign up and post a product/service/idea they desire, which includes a thumbnail, an image and a description. It will be listed on the main site and logged in users can view, upvote or downvote it (once per user).
@@ -122,12 +128,15 @@ __***Image showcase***__
 ![Item's site](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmchunt03.PNG)
 
 
--**Home page (part 2), once the product is added and upvoted. The page will keep on filling up as long as more products are added to it.**
+- **Home page (part 2), once the product is added and upvoted. The page will keep on filling up as long as more products are added to it.**
 
 ![Home page with the added product](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmchunt04.PNG)
 
 
 ## RNMC Social
+
+- URL: https://rnmcsocial.herokuapp.com/ (working)
+- Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCSocial
 
 __***Description and functionality***__
 
@@ -173,6 +182,9 @@ __***Image showcase***__
 
 
 ## RNMC Blog
+
+- URL: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog (working)
+- Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog
 
 __***Description and functionality***__
 
