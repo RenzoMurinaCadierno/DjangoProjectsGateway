@@ -24,7 +24,7 @@ Links
     - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCSocial
 
 - [**RNMC Blog**](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/readme.md#rnmc-blog)
-    - URL: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog (working)
+    - URL: https://rnmcblog.herokuapp.com/  (working)
     - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog
 
 Descriptions, functionality and image showcasing
