@@ -183,7 +183,7 @@ __***Image showcase***__
 
 ## RNMC Blog
 
-- URL: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog (working)
+- URL: https://rnmcblog.herokuapp.com/ (working)
 - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCBlog
 
 __***Description and functionality***__
