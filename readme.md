@@ -1,13 +1,13 @@
-Welcome to my Django Project's gateway!
+Welcome to my Django Projects' gateway!
 ========================================
 
 Overview
 ----------------------------------------
-I have chosen Django as my current backend framework, and I am learning as much as I can from it, one step at a time. I'm more than pleased to share some of my projects here so that you can test them out and come along me on my way to learning one of the three things I'm passionate about: web/app development.
+I have chosen Django as my current backend framework, and I am learning as much as I can from it, one step at a time. I'm more than pleased to share some of my projects here so that you can test them out and come along me on my way to learn one of the three things I'm passionate about: web/app development.
 
 Following up you will find the links to the working URLs of my Django projects and to their respective GitHub repositories, as well as a brief description and image showcase of their basic functionality down below those links. If you want a more detailed description, please feel free to check the README files on each of those project's repository.
 
-The projects are ordered from newest to oldest. Please, **do keep in mind** that they are hosted in a free version of Heroku, since I do not intend to monetize them, I've just done them for the sake of learning, filling up my portfolio and of course having fun. As they are hosted in a free Heroku version and their dynos reset each time the assigned server wakes up, **ALL USER UPLOADED MEDIA FILES ARE DELETED** on each visit. I mention this because some projects might seem to be broken but they are not (like RNMC Hunt, since it does not show thumbnails or image bodies). Just upload a couple yourselves and you will notice the change.
+The projects are ordered from newest to oldest. Please, **do keep in mind** that they are hosted in a free version of Heroku, since I do not intend to monetize them, I've just done them for the sake of learning, filling up my portfolio and having fun of course. As free Heroku hosting has dynos that reset each time the requested server wakes up, **ALL USER UPLOADED MEDIA FILES ARE DELETED** if 30 mins have gone by since the last visit. I mention this because some projects might seem to be broken but they are not (like RNMC Hunt, since it does not show thumbnails or image bodies). Just upload a couple yourselves and you will notice the change.
 
 Links
 ----------------------------------------
@@ -190,7 +190,7 @@ __***Description and functionality***__
 
 The basic foundations of a blogging web/app. As a user, you are limited to read the admin's posts and comment on them. Your comment will not be immediately approved, since the admin has the ability to do so. As an admin, you can create posts, edit them, edit or delete user comments, and approve them before they are uploaded to the post itself. 
 
-A much basic version of the functionality applied in RNMC Social is used here, since this blog served as the foundations to it, though some widgets were added, like the medium text editor. It was an fun little headache, but I am really comfortable with it as a first attempt at Django.
+A much basic version of the functionality applied in RNMC Social is used here, since this blog served as the foundations to it. Some widgets were added, like the medium text editor. It was an fun little headache, but I am really comfortable with it as a first attempt at Django.
 
 __***Image showcase***__
 
