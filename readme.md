@@ -11,6 +11,10 @@ The projects are ordered from newest to oldest. Please, **do keep in mind** that
 
 Links
 ----------------------------------------
+- [**RNMC Movies**](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/readme.md#rnmc-movies)
+    - URL: https://rnmcmovies.web.app/ (working, with some bugs mentioned below and in readme)
+    - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCMovies
+
 - [**RNMC Videos**](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/readme.md#rnmc-videos)
     - URL: https://rnmcvideos.herokuapp.com/ (working)
     - Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCVideos
@@ -29,6 +33,66 @@ Links
 
 Descriptions, functionality and image showcasing
 ----------------------------------------
+
+## RNMC Movies
+
+- URL: https://rnmcmovies.web.app/ (working, with some bugs mentioned below and in its own readme)
+- Repository: https://github.com/RenzoMurinaCadierno/Django-RNMCMovies
+
+__***Description and functionality***__
+
+A SPA where you can upload movie's titles and descriptions and rate them from 1 to 5 stars. 
+
+This is a first attempt at combining Django and React, the former to handle the consumable web API and the latter to deal with all views. It is fully functional though it is just a proof of concept. Alas, there are still some things to correct in it to make it work perfectly. All CRUD operations are dealt with, so you can upload a movie title and description, rate, edit and delete it. You can signup and login as a user, too. Attempting to access any view without being logged in will result in a crash.
+
+This one is not intended to be a fully UX-friendly site, since, as mentioned, it is just a proof of concept to learn how to combine React and Django. Be warned that you will come across some wonky behavior. The backend is hosted in a free Heroku server for which Authentication and CRUD operations might take a while, so expect a delay between a click and the server's response. Error handling was very lazy for my part, that's the reason for which you might make the app crash if you do not do things in their intended way. Besides that, I think it was a very good learning experience which fortified my thoughts on AJAX being one of the best things ever for web development.
+
+__***Image showcase***__
+
+- **SPA (part 1): Login. If you already have an account, otherwise, click where instructed to sign up.**
+
+![Login](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies01.PNG)
+
+
+- **SPA (part 2): Signup.**
+
+![Signup](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies02.PNG)
+
+
+- **SPA (part 3): Once logged in, you are taken to the movies list.**
+
+![Movie List](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies03.PNG)
+
+
+- **SPA (part 4): Click on "Add movie" to create a new movie object by its title and description.**
+
+![Add a movie](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies04.PNG)
+
+
+- **SPA (part 5): Click on the movie title, to read its description and rating, and to rate it.**
+
+![Movie details](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies05.PNG)
+
+
+- **SPA (part 6): Rate it by clicking on the stars below. The rating is updated automatically.**
+
+![Rating the movie](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies06.PNG)
+
+
+- **SPA (part 7): Click on the pencil to edit the movie.**
+
+![Editing the movie](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies07.PNG)
+
+
+- **SPA (part 8): The movie details after editing it.**
+
+![Details after editing](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies08.PNG)
+
+
+- **SPA (part 9): Finally, you can remove a movie by clicking on the bin.**
+
+![Movie list after deleting a movie](https://github.com/RenzoMurinaCadierno/DjangoProjectsGateway/blob/master/images/rnmcmovies09.PNG)
+
 
 ## RNMC Videos
 
